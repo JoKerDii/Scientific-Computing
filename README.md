@@ -1,0 +1,3 @@
+# Scientific-Computing
+
+* Root Finding
