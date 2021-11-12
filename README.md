@@ -3,8 +3,8 @@
 Explaining things well makes me understand them better.
 
 * Root Finding
-  * Fixed-point iteration, Newton's method, and Secant method (1-D) [[nbviewer](https://nbviewer.org/github/JoKerDii/Scientific-Computing/blob/main/root_finding/root-finding.ipynb)].
-  * Fixed-point iteration, and Newton's method (Multivariate) [[nbviewer](https://nbviewer.org/github/JoKerDii/Scientific-Computing/blob/main/root_finding/multivariate-root-finding.ipynb)].
+  * Fixed-point iteration, Newton's method, and Secant method (1-D) [[nbviewer](https://nbviewer.org/github/JoKerDii/Scientific-Computing/blob/main/root_finding/root_finding.ipynb)].
+  * Fixed-point iteration, and Newton's method (Multivariate) [[nbviewer](https://nbviewer.org/github/JoKerDii/Scientific-Computing/blob/main/root_finding/multivariate_root_finding.ipynb)].
 * Optimality Conditions
   * Optimality conditions and no-constrain optimization [[nbviewer](https://nbviewer.org/github/JoKerDii/Scientific-Computing/blob/main/optimality_conditions/optimality_conditions.ipynb)].
 
